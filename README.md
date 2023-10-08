@@ -1,2 +1,2 @@
 # ansible
-just learn concepts
+just learn concepts.
